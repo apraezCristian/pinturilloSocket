@@ -1,2 +1,0 @@
-# pinturilloSocket
-Proyecto Web
